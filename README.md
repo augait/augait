@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/sql-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://e1it.com.br/uploads/img/produtos/8/cb020d186c2fbe5f3c7c26960f990dde.png" height="30" alt="csharp logo"  />
 </div>
 
 ###
